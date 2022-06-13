@@ -18,5 +18,6 @@ What percentage of Vine reviews were 5 stars? What percentage of non-Vine review
 [!percentage_of_5_star](https://github.com/beata-malachowska/Amazon_Vine_Analysis/blob/main/5star%2Bpercentage.png)
 
 ##Summary
+
 Unpaid reviews had higher percentage of 5 star reviews in comparison to paid reviews. This could mean that regular reviewers are more likely to give higher opinion or that some of those reviews are fake ones. However, paid reviewer were very few (21) so drawing any definite conclusion would require analyzing more data - eg. from other purchase categories. Also, median star ranking and 1 star reviews could be calculated to give better picture of this data.
 
