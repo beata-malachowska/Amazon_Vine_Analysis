@@ -14,6 +14,7 @@ How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 [!count_of_5stars](https://github.com/beata-malachowska/Amazon_Vine_Analysis/blob/main/5star_count.png)
 
 What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+
 [!percentage_of_5_star](https://github.com/beata-malachowska/Amazon_Vine_Analysis/blob/main/5star%2Bpercentage.png)
 
 ##Summary
